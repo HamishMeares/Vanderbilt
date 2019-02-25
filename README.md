@@ -3,8 +3,8 @@
 You can use the [editor on GitHub](https://github.com/HamishMeares/Vanderbilt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 <body>
 <form name="input" method="POST" action="https://formspree.io/hmeares@mac.com">
-  What happened?: <textarea name="message"></textarea>
-  Which hospital?: <input type="text" name="Hospital>
+  What happened?: <textarea id="message" name="message"></textarea>
+  Which hospital?: <input type="text" id="hospital" "name="Hospital>
 </form>
 </body>
 
