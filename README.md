@@ -2,9 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/HamishMeares/Vanderbilt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-<form name="input" method="POST" action="">
+<form name="input" method="POST" action="https://formspree.io/hmeares@mac.com">
   What happened?: <textarea name="message"></textarea>
-  Which hospital?: <input type="text" hospital="Hospital>
+  Which hospital?: <input type="text" name="Hospital>
 </form>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
