@@ -1,13 +1,7 @@
 ## Welcome to St Elsewhere Anti-Discrimination, Bullying, and Sexual Harrassment Anonymous Reporting
 
 You can use the [editor on GitHub](https://github.com/HamishMeares/Vanderbilt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-<body>
-<form name="input" method="POST" action="https://formspree.io/hmeares@mac.com">
-  What happened?: <textarea id="message" name="message"></textarea>
-  Which hospital?: <input type="text" id="hospital" "name="Hospital>
-</form>
-</body>
-
+<form action="http://formspree.io/you@email.com"><input type="email" name="_replyto"><textarea   name="body"></textarea><input type="submit" value="Send"></form>
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
